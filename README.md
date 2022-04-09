@@ -24,9 +24,6 @@ It contains the simplicity within the website that doesn't create any mess for a
 what are the problms solved by this website ? 
 People or tourist doesn't have to visit many websites regarding Jamshedpur , they can get enough information regarding Jamshedpur from this particular website.
 
-//future plans regarding this website : 
-//I wanna add many more things in future regarding the API's and few databases.
-
 
 Process of making this website ? 
 I've used HTML and CSS to make this website an easy to use and responsive as well . 
